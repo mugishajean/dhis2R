@@ -25,3 +25,4 @@ mypassword = "district"
 mybase.url = "https://play.dhis2.org/2.31.0"
 
 test = getDataSets(mybase.url, myusername, mypassword)
+head(test)
