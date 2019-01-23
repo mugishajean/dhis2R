@@ -19,7 +19,7 @@ getDataSets = function(base.url, username, password){
 }
 
 
-# Test with demo site
+# Test Number 2 with demo site 
 myusername = "admin"
 mypassword = "district"
 mybase.url = "https://play.dhis2.org/2.31.0"
