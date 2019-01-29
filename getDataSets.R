@@ -1,6 +1,4 @@
 # Function to get list of datasets
-
-
 require(httr)
 require(jsonlite)
 
