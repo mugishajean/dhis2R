@@ -23,6 +23,8 @@ getTest = function(base.url, username, password,id){
   # return(datasets)
 }
 
+
+
 myusername = "admin"
 mypassword = "district"
 mybase.url = "https://play.dhis2.org/2.31.0"
@@ -33,7 +35,7 @@ head(test_2)
 
 # The Function start here
 
-getvalues = function(base.url, username, password,id){
+getvalues = function(base.url, username, password, id){
   
   datalist = list()
   
